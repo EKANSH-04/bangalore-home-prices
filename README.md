@@ -1,6 +1,6 @@
-<h1>🏡 Bangalore House Price Prediction</h1>
+<h1> Bangalore House Price Prediction</h1>
 
-<h2>📌 Project Overview</h2>
+<h2> Project Overview</h2>
 <p>
 This project focuses on predicting home prices in Bangalore using machine learning regression techniques. 
 The primary goal is to build a reliable model that estimates property prices based on various features such as location, size, and amenities.
@@ -9,7 +9,7 @@ After experimenting with multiple regression algorithms, <b>Linear Regression</b
 
 <hr>
 
-<h2>🚀 Key Features</h2>
+<h2> Key Features</h2>
 
 <ul>
   <li><b>Data Cleaning</b>
@@ -53,7 +53,7 @@ After experimenting with multiple regression algorithms, <b>Linear Regression</b
 
 <hr>
 
-<h2>🛠️ Technologies Used</h2>
+<h2> Technologies Used</h2>
 
 <ul>
   <li>Python</li>
@@ -64,7 +64,7 @@ After experimenting with multiple regression algorithms, <b>Linear Regression</b
 
 <hr>
 
-<h2>📊 Machine Learning Approach</h2>
+<h2> Machine Learning Approach</h2>
 
 <ul>
   <li><b>Problem Type:</b> Regression</li>
@@ -75,19 +75,18 @@ After experimenting with multiple regression algorithms, <b>Linear Regression</b
 
 <hr>
 
-<h2>📁 Project Structure</h2>
+<h2> Project Structure</h2>
 
 <pre>
 ├── data/                  # Raw and cleaned datasets
 ├── notebooks/             # EDA and model development notebooks
 ├── model/                 # Saved trained model
-├── app/                   # Inference or deployment scripts (if any)
 └── README.md              # Project documentation
 </pre>
 
 <hr>
 
-<h2>🔮 Future Improvements</h2>
+<h2> Future Improvements</h2>
 
 <ul>
   <li>Experiment with advanced models like XGBoost and Random Forest</li>
